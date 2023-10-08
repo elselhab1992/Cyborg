@@ -1,0 +1,29 @@
+.button a {
+  text-decoration: none;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 20px;
+  margin: 40px;
+  padding: 12px 30px;
+  letter-spacing: 0.5px;
+  transition: all 0.3s;
+}
+
+.primary-btn a {
+  background-color: #ec6090;
+}
+
+.primary-btn a:hover {
+  background-color: #fff;
+  color: #ec6090;
+}
+
+.secondary-btn a {
+  color: #ec6090;
+  border: 1px solid #ec6090;
+}
+
+.secondary-btn a:hover {
+  background-color: #fff;
+  color: #ec6090;
+}

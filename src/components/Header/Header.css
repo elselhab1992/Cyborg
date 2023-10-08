@@ -1,0 +1,15 @@
+nav {
+  margin-top: 20px;
+}
+
+nav .nav-link {
+  color: grey;
+}
+
+nav .nav-link:hover {
+  color: #ec6090;
+}
+
+.navbar-toggler {
+  background-color: #fff;
+}

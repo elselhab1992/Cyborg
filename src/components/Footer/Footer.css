@@ -1,0 +1,27 @@
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  margin: 10px auto;
+}
+footer p {
+  width: 25%;
+}
+
+footer p a {
+  color: #fff;
+  margin-left: 5px;
+}
+
+footer p a:hover {
+  color: #ec6090;
+}
+
+@media screen and (max-width: 480px) {
+  footer p {
+    width: 100%;
+  }
+}
